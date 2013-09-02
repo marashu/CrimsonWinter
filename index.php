@@ -892,7 +892,7 @@ $achName = "Repertoire";
 			$gift_notice .= "This gift request has expired.";
 		}
 		//$gift_notice .= "<br/><br/><a onclick='GiftRedirect(); return false;' href='#' class='header'>Accept more gifts?</a>";
-		$gift_notice .= "<a href='http://www.facebook.com/reqs.php#confirm_205670806110909_0' target='_top' class='faction'>  Accept more gifts?</a>";
+		$gift_notice .= "<a href='http://www.facebook.com/reqs.php#confirm_" . $app_id . "_0' target='_top' class='faction'>  Accept more gifts?</a>";
 	}
 }
 //help request for the area 1 boss fight
@@ -1798,7 +1798,7 @@ echo <<<_END
 <script src="http://connect.facebook.net/en_US/all.js"></script>
 <script>
   window.fbAsyncInit = function() {
-    FB.init({appId: '205670806110909', status: true, cookie: true,
+    FB.init({appId: '$app_id', status: true, cookie: true,
              xfbml: true});
     FB.Canvas.setSize({width:720, height:1200});
   };
