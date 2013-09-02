@@ -5,4 +5,4 @@ Crimson Winter was a Facebook game that was live from 2011 to mid 2012.  At its 
 
 The game was largely programmed with php and html.  Some javascript was used for functions like timers counting down when players would recover health and energy, and some AJAX was used for sending gifts to other players.  The database was accessed using mysql commands in php, and was maintained using phpMyAdmin.
 
-Certain files, like the variables to connect to the database and the variables containing the facebook app secret, are not included in this repository.
+Certain files, like the variables to connect to the database and the variables containing the facebook app secret, are not included in this repository.  Requires src/facebook.php which can be downloaded through facebook.
