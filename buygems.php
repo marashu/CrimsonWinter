@@ -360,7 +360,7 @@ echo <<<_END
 <script src="http://connect.facebook.net/en_US/all.js"></script>
 <script>
   window.fbAsyncInit = function() {
-    FB.init({appId: '205670806110909', status: true, cookie: true,
+    FB.init({appId: '$app_id', status: true, cookie: true,
              xfbml: true});
     FB.Canvas.setAutoResize();
   };
