@@ -1,0 +1,195 @@
+body.sapphiros{color:white; background-image:url('assets/BG_1.jpg'); background-color:blue; background-repeat:no-repeat; font-family:Helvetica, sans-serif; font-size:100%;}
+body.rubia{color:white; background-image:url('assets/BG_2.jpg'); background-color:red; background-repeat:no-repeat; font-family:Helvetica, sans-serif; font-size:100%;}
+body.damos{color:white; background-image:url('assets/BG_4.jpg'); background-color:white; background-repeat:no-repeat; font-family:Helvetica, sans-serif; font-size:100%;}
+body.jedeite{color:white; background-image:url('assets/BG_3.jpg'); background-color:green; background-repeat:no-repeat; font-family:Helvetica, sans-serif; font-size:100%;}
+body.machalite{color:white; background-image:url('assets/BG_5.jpg'); background-color:black; background-repeat:no-repeat; font-family:Helvetica, sans-serif; font-size:100%;}
+body.start{color:white; background-image:url('assets/BG_0.jpg'); background-color:yellow; background-repeat:no-repeat; font-family:Helvetica, sans-serif; font-size:100%;}
+
+div.sapphiros{color:white; background-image:url('assets/BG_1.jpg'); background-color:blue; background-repeat:no-repeat; font-family:Helvetica, sans-serif; font-size:100%; height:100%;}
+div.rubia{color:white; background-image:url('assets/BG_2.jpg'); background-color:red; background-repeat:no-repeat; font-family:Helvetica, sans-serif; font-size:100%; height:100%;}
+div.damos{color:white; background-image:url('assets/BG_4.jpg'); background-color:white; background-repeat:no-repeat; font-family:Helvetica, sans-serif; font-size:100%; height:100%;}
+div.jedeite{color:white; background-image:url('assets/BG_3.jpg'); background-color:green; background-repeat:no-repeat; font-family:Helvetica, sans-serif; font-size:100%; height:100%;}
+div.machalite{color:white; background-image:url('assets/BG_5.jpg'); background-color:black; background-repeat:no-repeat; font-family:Helvetica, sans-serif; font-size:100%; height:100%;}
+div.start{color:white; background-image:url('assets/BG_0.jpg'); background-color:yellow; background-repeat:no-repeat; font-family:Helvetica, sans-serif; font-size:100%; height:100%;}
+
+a.sapphiros:link {color:white; text-decoration:none;}
+a.sapphiros:visited { color:white; text-decoration:none;} 
+a.sapphiros:active { color:white; text-decoration:none;} 
+a.sapphiros:hover { color:white; text-decoration:none;}
+
+a.rubia:link {color:white; text-decoration:none;}
+a.rubia:visited { color:white; text-decoration:none;} 
+a.rubia:active { color:white; text-decoration:none;} 
+a.rubia:hover { color:white; text-decoration:none;}
+
+a.jedeite:link {color:white; text-decoration:none;}
+a.jedeite:visited { color:white; text-decoration:none;} 
+a.jedeite:active { color:white; text-decoration:none;} 
+a.jedeite:hover { color:white; text-decoration:none;}
+
+a.damos:link {color:white; text-decoration:none;}
+a.damos:visited { color:white; text-decoration:none;} 
+a.damos:active { color:white; text-decoration:none;} 
+a.damos:hover { color:white; text-decoration:none;}
+
+a.machalite:link {color:white; text-decoration:none;}
+a.machalite:visited { color:white; text-decoration:none;} 
+a.machalite:active { color:white; text-decoration:none;} 
+a.machalite:hover { color:white; text-decoration:none;}
+
+a:link {color:white; text-decoration:none;}
+a:visited { color:white; text-decoration:none;} 
+a:active { color:white; text-decoration:none;} 
+a:hover { color:white; text-decoration:none;}
+
+a.leaderboard:link{color:red; text-decoration:none;}
+a.leaderboard:visited{color:red; text-decoration:none;}
+a.leaderboard:active{color:red; text-decoration:none;}
+a.leaderboard:hover{color:red; text-decoration:none;}
+
+a:link img{border:0;}
+a:visited img{border:0;} 
+a:active img{ border:0;} 
+a:hover img{ border:0;}
+
+a.new:link img{border:0;}
+a.new:visited img{border:0;}
+a.new:active img{border:3px; border-style:solid; border-color:blue;}
+a.new:hover img{border:3px; border-style:solid; border-color:blue;}
+
+a.new:link{ color:black; text-decoration:none;}
+a.new:visited{ color:black; text-decoration:none;}
+a.new:active{ color:black; text-decoration:none;}
+a.new:hover{ color:black; text-decoration:none;}
+
+a.header:link {color:yellow; text-decoration:none;}
+a.header:visited { color:yellow; text-decoration:none;} 
+a.header:active { color:yellow; text-decoration:none;} 
+a.header:hover { color:yellow; text-decoration:none;}
+
+a.duel:link{ color:rgb(189,175,169); text-decoration:none;}
+a.duel:visited{ color:rgb(189,175,169); text-decoration:none;}
+a.duel:active{ color:rgb(189,175,169); text-decoration:none;}
+a.duel:hover{ color:rgb(189,175,169); text-decoration:none;}
+
+a.button:link{ color:black; text-decoration:none;}
+a.button:visited{ color:black; text-decoration:none;}
+a.button:active{ color:black; text-decoration:none;}
+a.button:hover{ color:black; text-decoration:none;}
+
+a.faction:link{ color:orange; text-decoration:none;}
+a.faction:visited{ color:orange; text-decoration:none;}
+a.faction:active{ color:orange; text-decoration:none;}
+a.faction:hover{ color:orange; text-decoration:none;}
+
+a.red:link{ color:red; text-decoration:none;}
+a.red:visited{ color:red; text-decoration:none;}
+a.red:active{ color:red; text-decoration:none;}
+a.red:hover{ color:red; text-decoration:none;}
+
+tr.sapphiros{color:blue;}
+tr.rubia{color:red;}
+tr.jedeite{color:green;}
+tr.damos{color:gray;}
+tr.machalite{color:black;}
+
+/********This is for the Home Missions Fight etc.***************/
+table.menu{position:absolute; top:94px; width:760px; left:0px; text-align:center;}
+
+
+table.header{position:absolute; top:20px; left:228px; color:yellow; text-align:center;}
+table.fighters{position:absolute; top:360px;  left:8px; background-image:url('assets/BG_box4x4.png'); width:500px; text-align:center;}
+table.group0{position:absolute; font-size:0.75em; top:275px;  left:8px; background-image:url('assets/MissionLocation1.png'); width:744px; height:37px; text-align:center;}
+table.group1{position:absolute; font-size:0.75em; top:275px;  left:8px; background-image:url('assets/MissionLocation2.png'); width:744px; height:37px; text-align:center;}
+table.group2{position:absolute; font-size:0.75em; top:275px;  left:8px; background-image:url('assets/MissionLocation3.png'); width:744px; height:37px; text-align:center;}
+table.group3{position:absolute; font-size:0.75em; top:275px;  left:8px; background-image:url('assets/MissionLocation4.png'); width:744px; height:37px; text-align:center;}
+table.group4{position:absolute; font-size:0.75em; top:275px;  left:8px; background-image:url('assets/MissionLocation5.png'); width:744px; height:37px; text-align:center;}
+table.group5{position:absolute; font-size:0.75em; top:275px;  left:8px; background-image:url('assets/MissionLocation6.png'); width:744px; height:37px; text-align:center;}
+table.change{position:absolute; top:597px;  left:8px; background-image:url('assets/messageBoxBG.png'); width:744px; text-align:center;}
+table.offence{position:absolute; top:179px; left:8px; width:744px; text-align:center; font-size:0.875em;}
+table.defence{position:relative; left:8px; background-image:url('assets/messageBoxBG.png'); width:744px; text-align:center;}
+table.utility{position:relative; left:8px; background-image:url('assets/messageBoxBG.png'); width:744px; text-align:center;}
+table.gemspower{position:absolute; top:475px; left:0px; width:720px; text-align:center;}
+table.setfaction{position:absolute; font-size:0.9375em; top:300px; left:8px; width:744px;}
+table.marketfactions{position:absolute; font-size:0.9375em; top:30px; left:450px; width:200px; text-align:center;}
+
+/*************The stats and timers for the header**************/
+table.stats{position:absolute; width:170px; text-align:left; font-variant:small-caps; top:7px; left:490px;}
+table.timers{position:absolute; width:106px; text-align:left; top:5px; left:654px; font-size:0.75em;}
+
+tr.timers{height:25px;}
+
+form{padding:0px; margin:0px;}
+td{padding:0px; margin:0px;}
+
+td.header{font-size:1.25em;}
+td.menu{width:125px;}
+td.setfaction{text-align:center; width:20%;}
+
+p.level{color:yellow; font-size:0.875em;}
+
+form.market{padding:0px; margin:0px;}
+
+div.powerButtons0{position:absolute; font-size:0.75em; top:134px;  left:8px; background-image:url('assets/BTN_1of2.png'); width:744px; height:37px; text-align:center;}
+div.powerButtons1{position:absolute; font-size:0.75em; top:134px;  left:8px; background-image:url('assets/BTN_2of2.png'); width:744px; height:37px; text-align:center;}
+div.profileButtons0{position:absolute; font-size:0.75em; top:134px;  left:8px; background-image:url('assets/BTN_1of3.png'); width:744px; height:37px; text-align:center;}
+div.profileButtons1{position:absolute; font-size:0.75em; top:134px;  left:8px; background-image:url('assets/BTN_2of3.png'); width:744px; height:37px; text-align:center;}
+div.profileButtons2{position:absolute; font-size:0.75em; top:134px;  left:8px; background-image:url('assets/BTN_3of3.png'); width:744px; height:37px; text-align:center;}
+div.btn1of4{position:absolute; font-size:0.75em; top:134px;  left:8px; background-image:url('assets/BTN_1of4.png'); width:744px; height:37px; text-align:center;}
+div.btn2of4{position:absolute; font-size:0.75em; top:134px;  left:8px; background-image:url('assets/BTN_2of4.png'); width:744px; height:37px; text-align:center;}
+div.btn3of4{position:absolute; font-size:0.75em; top:134px;  left:8px; background-image:url('assets/BTN_3of4.png'); width:744px; height:37px; text-align:center;}
+div.btn4of4{position:absolute; font-size:0.75em; top:134px;  left:8px; background-image:url('assets/BTN_4of4.png'); width:744px; height:37px; text-align:center;}
+div.warResults{position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em; background-image:url('assets/Box_DuelResults.png'); width:744px; height:102px; left:8px; top:335px;}
+div.warStats{text-align:center; position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em;  width:294px; left:8px; top:196px; height:300px;}
+div.warTrack{text-align:center; position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em;  width:442px; left:310px; top:196px; height:300px;}
+div.yesterday{position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em;  width:294px; left:8px; top:8px; height:80px;}
+div.today{text-align:center; position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em;  width:294px; left:310px; top:8px; height:80px;}
+div.fightButtons0{position:absolute; font-size:0.75em; top:263px;  left:8px; background-image:url('assets/BTN_1of2.png'); width:744px; height:37px; text-align:center;}
+div.fightButtons1{position:absolute; font-size:0.75em; top:285px;  left:8px; background-image:url('assets/BTN_2of2.png'); width:744px; height:37px; text-align:center;}
+div.title{text-align: center; position:absolute; font-family:Helvetica, sans-serif; font-size:1em; width:744px; left:8px; top:140px;}
+div.setname{position:absolute; font-size:1.25em; font-family: Helvetica, sans-serif; width:570px; left:172px; top:240px;}
+div.marketresults{position:absolute; font-size:0.9375em; left:8px; top:171px; background-image:url('assets/BG_box4x4.png'); width:744px; height:74px;}
+div.marketfactions{position:absolute; font-size:0.9375em; top:10px; left:450px; width:200px; text-align:center;}
+
+
+div.factionwars{color:black; position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em; background-image:url('assets/Box_FactionWars.png'); width:745px; left:8px; top:335px; height:419px;}
+
+div.leaderboard{position:absolute; font-size:0.9375em; top:179px; left:0px; width:760px; height:852px; background-image:url('assets/LeaderboardBoxes.png');}
+
+/**************BARS FOR 7 DAY TREND***********************
+***************change it so that it reads background-color:rgb(#,#,#); ********************************/
+div.sapBar{height:26px; background-image:url('assets/TrackBar1.png'); position:absolute; top:40px; left:120px; text-align:center;}
+div.rubBar{height:26px; background-image:url('assets/TrackBar2.png'); position:absolute; top:74px; left:120px; text-align:center;}
+div.jedBar{height:26px; background-image:url('assets/TrackBar3.png'); position:absolute; top:108px; left:120px; text-align:center;}
+div.damBar{height:26px; background-image:url('assets/TrackBar4.png'); position:absolute; top:142px; left:120px; color:black; text-align:center;}
+div.macBar{height:26px; background-image:url('assets/TrackBar5.png'); position:absolute; top:176px; left:120px; text-align:center;}
+
+
+/****************Position of Level ## *********************/
+div.hLevel{text-align: center; position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em; width:50px; left:140px; top:15px; font-variant:small-caps;}
+/****************** Position of EXP *****************/
+div.experience{text-align: center; position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em; width:111px; left:207px; top:20px;}
+/*****************Position of Krevels*****************/
+div.krevels{text-align: center; position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em; width:130px; left:340px; top:6px;}
+
+div.fighters{position:absolute; top:330px;  left:8px;  width:744px; text-align:center;}
+div.fighterbox{width:744px; height:107px; background-image:url('assets/DuelBox.png'); position:relative;}
+div.explain{position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em; background-image:url('assets/BG_box4x4.png'); text-align:center; width:742px; height:134px; left:9px; top:133px;}
+div.novel{position:absolute; top:133px; width:744px; height:111px;left:8px;}
+div.messages{position:absolute; font-family:Helvetica, sans-serif; color:black; font-size:0.9375em; background-image:url('assets/BG_box4x4.png'); width:482px; left:273px; top:476px; height:500px;}
+div.specials{position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em; background-image:url('assets/Box_WhatsNew.png'); width:744px; left:8px; top:254px; height:214px;}
+div.homeWar{color:black; position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em; background-image:url('assets/Box_HomeWars.png'); width:257px; left:8px; top:476px; height:203px;}
+div.raffleWin{position:absolute; color:black; font-family:Helvetica, sans-serif; font-size:0.9375em; background-image:url('assets/Box_Raffle.png'); width:257px; left:8px; top:687px; height:209px;}
+div.missions{position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em;  width:744px; left:8px; top:481px;}
+div.missionbox{margin:0px; border:0px; padding:0px; width:744px; height:276px; background-image:url('assets/MissionBoxLarge.png'); position:absolute;}
+div.storeresults{position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em; background-image:url('assets/Buy_ResultsBox.png'); width:744px; height:95px; left:8px; top:179px;}
+div.results{position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em; background-image:url('assets/Box_MissionsResults.png'); width:744px; height:155px; left:8px; top:320px;}
+div.fightresults{position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em; background-image:url('assets/Box_DuelResults.png'); width:744px; height:102px; left:8px; top:308px;}
+div.support{position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em;  width:140px; height:80px; left:612px; top:8px;}
+div.profile{position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em; background-image:url('assets/BG_box4x4.png'); width:744px; left:8px; top:182px; height:246px;}
+div.changeHeader{position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em;  width:200px; height:200px; text-align:center; left:450px; top:10px;}
+div.market{position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em; background-image:url('assets/BG_box4x4.png'); width:744px;  left:8px; top:287px;}
+div.achievements{position:absolute; font-family:Helvetica, sans-serif; font-size:0.9375em; background-image:url('assets/Box_Profile2.png'); width:744px; left:8px; top:799px; height:2250px; color:black;}
+div.godpowers{position:absolute; text-align:center; font-family:Helvetica, sans-serif; font-size:0.9375em; background-image:url('assets/Box_Profile1.png'); width:744px; left:8px; top:295px; height:236px; color:black;}
+div.knights{position:absolute; text-align:center; font-family:Helvetica, sans-serif; font-size:0.9375em; background-image:url('assets/BG_box4x4.png'); width:744px; left:8px; top:288px;}
+div.whitestripe{position:absolute; left:0px; width:760px; background-image:url('assets/WhiteStripe.jpg'); top:275px; height:4px;}
